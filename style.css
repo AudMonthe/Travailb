@@ -25,3 +25,7 @@ nav{padding: 4% 6%;
 body{
     background-image: url(photos/fondecranok.jpeg);
 }
+h2{margin: 80px;
+    justify-content: left;}
+
+p{color:blanchedalmond;}
